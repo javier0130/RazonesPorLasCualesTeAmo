@@ -4,7 +4,6 @@ const reasons = [
     "Me gusta cómo eres espontánea y siempre estás dispuesta a hacer algo divertido.",
     "Anahi siempre tiene tiempo para mí, incluso cuando está ocupada.",
     "Siempre estás ahí para mí.",
-    "Por la forma en que me haces reír.",
     "Me aceptas tal como soy.",
     "Eres mi hogar.",
     "Porque me haces una mejor persona.",
@@ -14,7 +13,7 @@ const reasons = [
     "Juntos podemos superar cualquier obstáculo.",
     "Eres la razón por la que me despierto con una sonrisa todos los días.",
     "Porque me haces sentir amado.",
-    "Me siento seguro y amado cuando ella está conmigo.",
+    "Me siento seguro y amado cuando estás conmigo.",
     "Estar contigo es sentirme como en casa.",
     "Aprecio cómo siempre me apoyas en mis sueños y metas, incluso cuando son difíciles de alcanzar.",
     "Por lo fuerte que hemos sido siempre.",
@@ -24,7 +23,12 @@ const reasons = [
     "Porque me encanta consentirte",
     "Porque eres la mejor novia del mundo",
     "Porque eres cariñosa",
-    "Por la esclusividad que me das"
+    "Por la esclusividad que me das",
+    "Por tus llamadas en la noche",
+    "por simplemente ser tu",
+    "porque ademas de tus problemas has salido adelante",
+    "porque has hechos cambios positivos en mi",
+    "porque estas dispuesta a cambiar para que las cosas funcionen"
 
 ];
 
