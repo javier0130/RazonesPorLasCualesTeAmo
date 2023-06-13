@@ -28,7 +28,8 @@ const reasons = [
     "por simplemente ser tu",
     "porque ademas de tus problemas has salido adelante",
     "porque has hechos cambios positivos en mi",
-    "porque estas dispuesta a cambiar para que las cosas funcionen"
+    "porque estas dispuesta a cambiar para que las cosas funcionen",
+    "Porque espero y estar contigo muchisimo tiempo"
 
 ];
 
