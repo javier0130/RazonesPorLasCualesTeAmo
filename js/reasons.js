@@ -14,7 +14,7 @@ const reasons = [
     "Por tus llamadas en la noche",
     "por simplemente ser tu",
     "porque has hechos cambios positivos en mi",
-    "por como me has hecho sentir de nuevo "
+    "por como me has hecho sentir como antes de nuevo"
 
 ];
 
