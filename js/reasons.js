@@ -1,6 +1,6 @@
 const reasons = [
     "Eres mí Angel.",
-    "Me encanta tu voz suave y suave, especialmente cuando me dices cosas lindas.",
+    "Me encanta tu voz suave, especialmente cuando me dices cosas lindas.",
     "Me gusta cómo eres espontánea y siempre estás dispuesta a hacer algo divertido.",
     "Angeles Tratas de vernos o tomas la iniciativa para planes.",
     "Me encanta tu actitud.",
