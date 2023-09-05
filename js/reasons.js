@@ -14,7 +14,14 @@ const reasons = [
     "Por tus llamadas en la noche",
     "por simplemente ser tu",
     "porque has hechos cambios positivos en mi",
-    "por como me has hecho sentir como antes de nuevo"
+    "por como me has hecho sentir como antes de nuevo",
+    "Por tus besos alrededor de mi cara",
+    "Porque entrenas conmigo",
+    "Por como cuando te digo algo lindo se sonrojas",
+    "Porque recuerdas con detalle las cosas que te digo",
+    "Porque eres inteligente",
+    "Porque llenas de alegria mi dia con tus mensajes
+    
 
 ];
 
