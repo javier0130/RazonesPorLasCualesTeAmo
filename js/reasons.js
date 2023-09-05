@@ -20,7 +20,7 @@ const reasons = [
     "Por como cuando te digo algo lindo se sonrojas",
     "Porque recuerdas con detalle las cosas que te digo",
     "Porque eres inteligente",
-    "Porque llenas de alegria mi dia con tus mensajes
+    "Porque llenas de alegria mi dia con tus mensajes",
     
 
 ];
